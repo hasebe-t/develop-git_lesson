@@ -10,5 +10,6 @@ Test01.txt
 
 Buranch：Test02
 
+Test02ブランチで追加１
 
 
